@@ -43,4 +43,4 @@
 
 ---
 
-Stay connected and let's conquer the gaming world together! 🌟
+Stay connected and let's conquer the world together! 🌟
