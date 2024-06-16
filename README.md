@@ -1,4 +1,4 @@
-# ★☆ SinisterBoy ☆★
+# ★☆ xoXNEOXox ☆★
 
 ## Personal Information
 - **Name:** Jay / JayJay  
@@ -6,7 +6,7 @@
 - **Birthday:** December 20th  
 - **Gender:** Male  
 - **Relationship Status:** Single  
-- **Gaming Alias:** SinisterBoy  
+- **Gaming Alias:** ★☆ FemBoyLover ☆★  
 
 ---
 
