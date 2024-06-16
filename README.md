@@ -20,26 +20,26 @@
 ---
 
 ## Favorite Games
-- **Game 1:** (Insert favorite game here)
-- **Game 2:** (Insert favorite game here)
-- **Game 3:** (Insert favorite game here)
-- **Game 4:** (Insert favorite game here)
-- **Game 5:** (Insert favorite game here)
+- **Game 1:** [Insert favorite game here](#)
+- **Game 2:** [Insert favorite game here](#)
+- **Game 3:** [Insert favorite game here](#)
+- **Game 4:** [Insert favorite game here](#)
+- **Game 5:** [Insert favorite game here](#)
 
 ---
 
 ## Favorite Songs
-- **Song 1:** (Insert favorite song here)
-- **Song 2:** (Insert favorite song here)
-- **Song 3:** (Insert favorite song here)
-- **Song 4:** (Insert favorite song here)
-- **Song 5:** (Insert favorite song here)
+- **Song 1:** [Insert favorite song here](#)
+- **Song 2:** [Insert favorite song here](#)
+- **Song 3:** [Insert favorite song here](#)
+- **Song 4:** [Insert favorite song here](#)
+- **Song 5:** [Insert favorite song here](#)
 
 ---
 
 ## Contact & Social
-- 🎮 **Gaming Platforms:** (Insert your gaming platforms here, e.g., Steam, Xbox, PlayStation)
-- 📱 **Social Media:** (Insert your social media handles here if you wish to share)
+- 🎮 **Gaming Platforms:** [Insert your gaming platforms here](#)
+- 📱 **Social Media:** [Insert your social media handles here](#)
 
 ---
 
