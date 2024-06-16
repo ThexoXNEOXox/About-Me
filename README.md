@@ -23,8 +23,8 @@
 - **Game 1:** [Dead by Daylight](http://store.steampowered.com/app/381210/Dead_by_Daylight/)
 - **Game 2:** [Sons of the Forest](https://store.steampowered.com/app/1326470/Sons_Of_The_Forest/)
 - **Game 3:** [Borderlands 3](https://store.steampowered.com/app/397540/Borderlands_3/)
-- **Game 4:** [Insert favorite game here](http://example.com)
-- **Game 5:** [Insert favorite game here](http://example.com)
+- **Game 4:** [PLACEHOLDER](http://example.com)
+- **Game 5:** [PLACEHOLDER](http://example.com)
 
 ---
 
