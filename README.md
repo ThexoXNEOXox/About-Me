@@ -20,7 +20,7 @@
 ---
 
 ## Favorite Games
-- **Game 1:** [Insert favorite game here](#)
+- **Game 1:** [Dead by Daylight](store.steampowered.com/app/381210/Dead_by_Daylight/)
 - **Game 2:** [Insert favorite game here](#)
 - **Game 3:** [Insert favorite game here](#)
 - **Game 4:** [Insert favorite game here](#)
