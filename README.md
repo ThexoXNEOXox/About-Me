@@ -1,4 +1,4 @@
-# ★☆ xoXNEOXox ☆★
+# ★☆ SinisterBoy ☆★
 
 ## Personal Information
 - **Name:** Jay / JayJay  
@@ -20,26 +20,26 @@
 ---
 
 ## Favorite Games
-- **Game 1:** [Dead by Daylight](store.steampowered.com/app/381210/Dead_by_Daylight/)
-- **Game 2:** [Insert favorite game here](#)
-- **Game 3:** [Insert favorite game here](#)
-- **Game 4:** [Insert favorite game here](#)
-- **Game 5:** [Insert favorite game here](#)
+- **Game 1:** [Dead by Daylight](http://store.steampowered.com/app/381210/Dead_by_Daylight/)
+- **Game 2:** [Insert favorite game here](http://example.com)
+- **Game 3:** [Insert favorite game here](http://example.com)
+- **Game 4:** [Insert favorite game here](http://example.com)
+- **Game 5:** [Insert favorite game here](http://example.com)
 
 ---
 
 ## Favorite Songs
-- **Song 1:** [Insert favorite song here](#)
-- **Song 2:** [Insert favorite song here](#)
-- **Song 3:** [Insert favorite song here](#)
-- **Song 4:** [Insert favorite song here](#)
-- **Song 5:** [Insert favorite song here](#)
+- **Song 1:** [Insert favorite song here](http://example.com)
+- **Song 2:** [Insert favorite song here](http://example.com)
+- **Song 3:** [Insert favorite song here](http://example.com)
+- **Song 4:** [Insert favorite song here](http://example.com)
+- **Song 5:** [Insert favorite song here](http://example.com)
 
 ---
 
 ## Contact & Social
-- 🎮 **Gaming Platforms:** [Insert your gaming platforms here](#)
-- 📱 **Social Media:** [Insert your social media handles here](#)
+- 🎮 **Gaming Platforms:** [Steam](https://store.steampowered.com/)
+- 📱 **Social Media:** [Twitter](https://twitter.com/yourhandle)
 
 ---
 
