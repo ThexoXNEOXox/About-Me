@@ -4,7 +4,7 @@
 - **Name:** Jay / JayJay  
 - **Age:** 18  
 - **Birthday:** December 20th  
-- **Gender:** Male  
+- **Pronouns:** He/Them  
 - **Relationship Status:** Single  
 - **Gaming Alias:** ★☆FemBoyLover☆★  
 
