@@ -38,8 +38,8 @@
 ---
 
 ## Contact & Social
-- 🎮 **Gaming Platforms:** [Steam](https://store.steampowered.com/)
-- 📱 **Social Media:** [Twitter](https://twitter.com/yourhandle)
+- 🎮 **Gaming Platforms:** [Steam](https://steamcommunity.com/id/ThexoXNEOXox/)
+- 📱 **Social Media:** [Discord](steam://openurl_external/https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscordapp.com%2Fusers%2F494168335391391760)
 
 ---
 
