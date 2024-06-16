@@ -6,7 +6,7 @@
 - **Birthday:** December 20th  
 - **Gender:** Male  
 - **Relationship Status:** Single  
-- **Gaming Alias:** ★☆ FemBoyLover ☆★  
+- **Gaming Alias:** ★☆FemBoyLover☆★  
 
 ---
 
@@ -21,7 +21,7 @@
 
 ## Favorite Games
 - **Game 1:** [Dead by Daylight](http://store.steampowered.com/app/381210/Dead_by_Daylight/)
-- **Game 2:** [Insert favorite game here](http://example.com)
+- **Game 2:** [Sons of the Forest]([http://example.com](https://store.steampowered.com/app/1326470/Sons_Of_The_Forest/))
 - **Game 3:** [Insert favorite game here](http://example.com)
 - **Game 4:** [Insert favorite game here](http://example.com)
 - **Game 5:** [Insert favorite game here](http://example.com)
