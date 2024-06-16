@@ -39,7 +39,7 @@
 
 ## Contact & Social
 - 🎮 **Gaming Platforms:** [Steam](https://steamcommunity.com/id/ThexoXNEOXox/)
-- 📱 **Social Media:** [Discord](steam://openurl_external/https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscordapp.com%2Fusers%2F494168335391391760)
+- 📱 **Social Media:** [Discord](https://discordapp.com/users/494168335391391760)
 
 ---
 
